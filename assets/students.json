@@ -1,0 +1,138 @@
+[
+    {
+        "name": "John Doe",
+        "dateOfBirth": "2005-05-15",
+        "grade": "Blue",
+        "attendanceCount": 10,
+        "isMember": true,
+        "membershipRenewalDate": "2024-05-15"
+    },
+    {
+        "name": "Jane Smith",
+        "dateOfBirth": "2008-09-12",
+        "grade": "Green",
+        "attendanceCount": 8,
+        "isMember": false,
+        "membershipRenewalDate": "2023-09-12"
+    },
+    {
+        "name": "Alex Johnson",
+        "dateOfBirth": "2006-02-20",
+        "grade": "Red",
+        "attendanceCount": 12,
+        "isMember": true,
+        "membershipRenewalDate": "2025-02-20"
+    },
+    {
+        "name": "Emily Davis",
+        "dateOfBirth": "2007-07-30",
+        "grade": "Yellow",
+        "attendanceCount": 9,
+        "isMember": true,
+        "membershipRenewalDate": "2024-07-30"
+    },
+    {
+        "name": "Michael Brown",
+        "dateOfBirth": "2005-12-01",
+        "grade": "Blue",
+        "attendanceCount": 11,
+        "isMember": false,
+        "membershipRenewalDate": "2023-12-01"
+    },
+    {
+        "name": "Sarah Wilson",
+        "dateOfBirth": "2009-03-22",
+        "grade": "Green",
+        "attendanceCount": 7,
+        "isMember": true,
+        "membershipRenewalDate": "2024-03-22"
+    },
+    {
+        "name": "David Moore",
+        "dateOfBirth": "2006-08-09",
+        "grade": "Purple",
+        "attendanceCount": 13,
+        "isMember": true,
+        "membershipRenewalDate": "2025-08-09"
+    },
+    {
+        "name": "Olivia Taylor",
+        "dateOfBirth": "2008-11-10",
+        "grade": "Pink",
+        "attendanceCount": 6,
+        "isMember": false,
+        "membershipRenewalDate": "2023-11-10"
+    },
+    {
+        "name": "James Harris",
+        "dateOfBirth": "2007-04-17",
+        "grade": "Blue",
+        "attendanceCount": 10,
+        "isMember": true,
+        "membershipRenewalDate": "2024-04-17"
+    },
+    {
+        "name": "Sophia Martinez",
+        "dateOfBirth": "2009-01-30",
+        "grade": "Red",
+        "attendanceCount": 8,
+        "isMember": false,
+        "membershipRenewalDate": "2023-01-30"
+    },
+    {
+        "name": "William Garcia",
+        "dateOfBirth": "2006-09-05",
+        "grade": "Yellow",
+        "attendanceCount": 14,
+        "isMember": true,
+        "membershipRenewalDate": "2025-09-05"
+    },
+    {
+        "name": "Ava Lee",
+        "dateOfBirth": "2007-12-16",
+        "grade": "Green",
+        "attendanceCount": 7,
+        "isMember": true,
+        "membershipRenewalDate": "2024-12-16"
+    },
+    {
+        "name": "Liam Walker",
+        "dateOfBirth": "2006-06-25",
+        "grade": "Pink",
+        "attendanceCount": 5,
+        "isMember": false,
+        "membershipRenewalDate": "2023-06-25"
+    },
+    {
+        "name": "Mason Young",
+        "dateOfBirth": "2008-10-10",
+        "grade": "Purple",
+        "attendanceCount": 12,
+        "isMember": true,
+        "membershipRenewalDate": "2024-10-10"
+    },
+    {
+        "name": "Isabella Allen",
+        "dateOfBirth": "2005-03-18",
+        "grade": "Red",
+        "attendanceCount": 11,
+        "isMember": true,
+        "membershipRenewalDate": "2025-03-18"
+    },
+    {
+        "name": "Lucas King",
+        "dateOfBirth": "2007-05-07",
+        "grade": "Yellow",
+        "attendanceCount": 9,
+        "isMember": false,
+        "membershipRenewalDate": "2023-05-07"
+    },
+    {
+        "name": "Charlotte Scott",
+        "dateOfBirth": "2008-02-26",
+        "grade": "Blue",
+        "attendanceCount": 10,
+        "isMember": true,
+        "membershipRenewalDate": "2024-02-26"
+    }
+]
